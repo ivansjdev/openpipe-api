@@ -48,7 +48,7 @@ The following endpoints are available:
 ## Screenshots
 ![Screenshot](./images/read-config.PNG)
 ![Screenshot](./images/browse-alarms.PNG)
-![Screenshot](./images/write-tags.PNG)
+![Screenshot](./images/write_tags.PNG)
 ![Screenshot](./images/sub-alarm.PNG)
 ![Screenshot](./images/get-subs.PNG)
 ![Screenshot](./images/unsub-alarm.PNG)
