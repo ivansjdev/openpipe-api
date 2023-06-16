@@ -46,12 +46,12 @@ The following endpoints are available:
 | DELETE | /api/openpipe/unsubscribe/alarms/:cookie   | Unsubscribe from alarms                          |
 
 ## Screenshots
-![Screenshot](./images/read-config.png)
-![Screenshot](./images/browse-alarms.png)
-![Screenshot](./images/write-tags.png)
-![Screenshot](./images/sub-alarm.png)
-![Screenshot](./images/get-subs.png)
-![Screenshot](./images/unsub-alarm.png)
+![Screenshot](./images/read-config.PNG)
+![Screenshot](./images/browse-alarms.PNG)
+![Screenshot](./images/write-tags.PNG)
+![Screenshot](./images/sub-alarm.PNG)
+![Screenshot](./images/get-subs.PNG)
+![Screenshot](./images/unsub-alarm.PNG)
 
 
 ## Siemens WinCC Unified Open Pipe Documentation
